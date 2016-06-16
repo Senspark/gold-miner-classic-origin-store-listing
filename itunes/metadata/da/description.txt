@@ -1,0 +1,3 @@
+Guld, diamanter, og dynamit? Det er rigtigt, du er en guld minearbejder, og det er dit job at udvinde så meget guld som du kan og komme ud med de fleste penge. Er du klar?
+
+Dette er en meget let og smidig version af Gold Miner klassiske spil
