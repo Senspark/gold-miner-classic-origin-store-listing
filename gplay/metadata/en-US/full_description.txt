@@ -1,0 +1,3 @@
+Gold, diamonds, and dynamite? That's right, you're a gold miner and it's your job to mine as much gold as you can and come out with the most money. Are you ready?
+
+This is a very lightweight and smooth version of Gold Miner classic game
